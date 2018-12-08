@@ -1,0 +1,1 @@
+sudo sed -i.bak -e '51d; 52d;' /etc/apt/sources.list.
